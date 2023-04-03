@@ -1,4 +1,5 @@
 CC=gcc
+CC=mpicc
 CFLAGS=-I.
 DEPS = hellomake.h
 
