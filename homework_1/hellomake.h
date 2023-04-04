@@ -1,5 +1,5 @@
-/*
+ 
+ /*
 example include file
 */
-
-void myPrintHelloMake(void);
+ void writeFile_make(char *output_file, double *output, int r);
